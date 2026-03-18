@@ -1,2 +1,2 @@
 # linux_terminal
-Linux Terminal Configuration
+## Linux Terminal Configuration
