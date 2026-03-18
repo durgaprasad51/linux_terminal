@@ -1,9 +1,7 @@
-# linux_terminal
-## Linux Terminal Configuration
+# Linux Terminal Configuration
 
-***
 # ~/.tmux.conf
-
+####
 # ============================================
 # ESSENTIAL SETTINGS
 # ============================================
@@ -117,4 +115,4 @@ set -g @continuum-restore 'on'
 
 # Initialize TPM (keep at bottom)
 run '~/.tmux/plugins/tpm/tpm'
-***
+####
